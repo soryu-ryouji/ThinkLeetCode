@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem-00088", "Problem-00088\Problem-00088.csproj", "{40B7A5C6-F59C-4CD6-B698-4A48DC473CE8}"
+#
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_00088", "Problem_00088\Problem_00088.csproj", "{40B7A5C6-F59C-4CD6-B698-4A48DC473CE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_01608", "Problem_01608\Problem_01608.csproj", "{371AE392-11F8-445C-BBCD-C0F8D5066754}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +15,9 @@ Global
 		{40B7A5C6-F59C-4CD6-B698-4A48DC473CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40B7A5C6-F59C-4CD6-B698-4A48DC473CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40B7A5C6-F59C-4CD6-B698-4A48DC473CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{371AE392-11F8-445C-BBCD-C0F8D5066754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371AE392-11F8-445C-BBCD-C0F8D5066754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371AE392-11F8-445C-BBCD-C0F8D5066754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371AE392-11F8-445C-BBCD-C0F8D5066754}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
